@@ -13,12 +13,6 @@ Minha formação e prática atual envolvem o domínio de ferramentas e linguagen
 A experiência prévia em vendas me proporcionou habilidades valiosas — como comunicação clara, empatia, visão estratégica e resolução de problemas — que hoje aplico na análise de dados de forma crítica e orientada a resultados. Meu objetivo é continuar evoluindo na área de Ciência de Dados, contribuindo para que empresas e pessoas possam tomar decisões mais inteligentes, rápidas e sustentáveis através do poder dos dados.
 
 ---
-
-## 🐍 Minhas Contribuições
-![Snake animation](https://raw.githubusercontent.com/Filipe-Ambrozio/Filipe-Ambrozio/output/snake.svg)
-
-
----
 ### 🚀 Tecnologias que utilizo atualmente:
 
 ###
@@ -73,36 +67,11 @@ usabilidade e a navegação intuitiva.
 - **Tecnologias**:  React.js, JavaScript, Styled-Components 
 - **Link**: [Ver Projeto](https://xn--laboratriolucasoliveira-cjc.com.br/)
 
-### 2. DevBurguer:
-- **Descrição**: Aplicação web para pedidos de hambúrgueres, desenvolvida com React.js no front end e 
-Node.js no back end. O sistema inclui funcionalidades de cadastro de usuários, realização de pedidos e 
-gerenciamento de produtos, com foco em usabilidade e performance. 
-- **Tecnologias**: Node.js, Prisma, PostgreSQL, React.js, JavaScript 
-- **Link**: [Ver Projeto](https://devburger-front-end.vercel.app/)
-- **Recursos**:
-  - Autenticação JWT
-  - CRUD completo
-  - Docker
-  - Express.js
-
-### 3. ScannerSaudavel: 
+### 2. ScannerSaudavel: 
 - **Descrição**: Plataforma web de cosumo saúdavel desenvolvida com Phyton+Supabase, focada em redução de doenças cronicas,
 operando na área de Varejo para profissionais e responsivo e experiência do usuário. 
 - **Tecnologias**: \VSCode, Streamlite, Github e Supabase.
 - **Link**: [Ver Projeto](https://scannersaudavel.app/)
-
-
----
-
-### 🌐 Minhas Redes:
-<a href="www.linkedin.com/in/felipe-ambrosio-b952aa390"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<br/>
-<a href="https://wa.me/558597209670"> 
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
 ---
 
 ## 📊 Estatísticas GitHub:
@@ -121,20 +90,16 @@ operando na área de Varejo para profissionais e responsivo e experiência do us
 </div>
  
  ---
- 
+### 🌐 Minhas Redes:
+
+<a href="www.linkedin.com/in/felipe-ambrosio-b952aa390"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br/>
+
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt1dTM4dzBtZjJrazhnejZiZzM5cDA0eDZzZnVwOTg1b2NkeTA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="1000">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt1dTM4dzBtZjJrazhnejZiZzM5cDA0eDZzZnVwOTg1b2NkeTA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="800">
 </div>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###
+ ---
 
