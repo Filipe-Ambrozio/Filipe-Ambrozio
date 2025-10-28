@@ -92,10 +92,18 @@ operando na área de Varejo para profissionais e responsivo e experiência do us
 ### 🌐 Minhas Redes:
 
 <a href="www.linkedin.com/in/felipe-ambrosio-b952aa390"> 
-  <img src="www.linkedin.com/in/
-filipe-ambrozio-b952aa390?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="www.linkedin.com/in/filipe-ambrozio-b952aa390?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br/>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/filipe-ambrozio-b952aa390" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWt1dTM4dzBtZjJrazhnejZiZzM5cDA0eDZzZnVwOTg1b2NkeTA5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="800">
