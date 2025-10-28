@@ -92,7 +92,8 @@ operando na área de Varejo para profissionais e responsivo e experiência do us
 ### 🌐 Minhas Redes:
 
 <a href="www.linkedin.com/in/felipe-ambrosio-b952aa390"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="www.linkedin.com/in/
+filipe-ambrozio-b952aa390?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <br/>
 
