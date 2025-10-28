@@ -6,9 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Eu+sou+Filipe+Ambrozio;+Cientista+de+Dados;Transformando+Ideias+em+Código&center=true&width=380&height=45">
 </p>
 👨‍💻 Sobre Mim
+</p>
 Sou um Cientista de Dados em formação com grande interesse em transformar informações em insights valiosos para apoiar decisões estratégicas. Após construir uma carreira sólida no setor comercial, especialmente na área de materiais odontológicos, decidi redirecionar minha trajetória profissional para o universo da análise e ciência de dados, unindo minha experiência em compreender necessidades humanas com a capacidade técnica de interpretar e modelar dados.
 
-Minha formação e prática atual envolvem o domínio de ferramentas e linguagens como Python, SQL, Pandas, NumPy, Matplotlib, Power BI e Machine Learning, aplicadas à análise exploratória, predição e visualização de dados. Tenho me dedicado ao desenvolvimento de projetos voltados à identificação de padrões, otimização de processos e apoio à tomada de decisão baseada em evidências.
+Minha formação e prática atual envolvem o domínio de ferramentas e linguagens como Excel, Python, SQL, Pandas, NumPy, Matplotlib, Power BI e Machine Learning, aplicadas à análise exploratória, predição e visualização de dados. Tenho me dedicado ao desenvolvimento de projetos voltados à identificação de padrões, otimização de processos e apoio à tomada de decisão baseada em evidências.
 
 A experiência prévia em vendas me proporcionou habilidades valiosas — como comunicação clara, empatia, visão estratégica e resolução de problemas — que hoje aplico na análise de dados de forma crítica e orientada a resultados. Meu objetivo é continuar evoluindo na área de Ciência de Dados, contribuindo para que empresas e pessoas possam tomar decisões mais inteligentes, rápidas e sustentáveis através do poder dos dados.
 
@@ -60,18 +61,16 @@ A experiência prévia em vendas me proporcionou habilidades valiosas — como c
 
 ## 🛠️ Projetos em Destaque
 
-### 1. Laboratório Lucas Oliveira:
-- **Descrição**:Portfólio profissional desenvolvido em React.js, com design moderno e 
-responsivo. O projeto apresenta informações sobre serviços, contato e trabalhos realizados, destacando a 
-usabilidade e a navegação intuitiva. 
-- **Tecnologias**:  React.js, JavaScript, Styled-Components 
-- **Link**: [Ver Projeto](https://xn--laboratriolucasoliveira-cjc.com.br/)
+### 1. Acidentes_Rodoviarios:
+- **Descrição**:Análise exploratória desenvolvido com a ferramenta RStudio, baseada em dados detalhados de acidentes rodoviários, com o objetivo de identificar causas recorrentes, entender o impacto do número de veículos envolvidos e propor recomendações práticas para campanhas educativas. A abordagem utiliza técnicas estatísticas, análise de texto e boas práticas de proteção de dados sensíveis, contribuindo para o desenvolvimento de políticas públicas mais precisas e preventivas.. 
+- **Tecnologias**:  RStudio, dplyr e ggplot2.
+- **Link**: [Ver Projeto](https://github.com/Filipe-Ambrozio/Acidentes_Rodoviarios.git)
 
 ### 2. ScannerSaudavel: 
 - **Descrição**: Plataforma web de cosumo saúdavel desenvolvida com Phyton+Supabase, focada em redução de doenças cronicas,
 operando na área de Varejo para profissionais e responsivo e experiência do usuário. 
 - **Tecnologias**: \VSCode, Streamlite, Github e Supabase.
-- **Link**: [Ver Projeto](https://scannersaudavel.app/)
+- **Link**: [Ver Projeto](https://github.com/Filipe-Ambrozio/ScannerSaudavel.git)
 ---
 
 ## 📊 Estatísticas GitHub:
